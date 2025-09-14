@@ -1,0 +1,181 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 2%;
+    color: #303030;
+}
+a {
+    text-decoration: none;
+}
+.list {
+    text-decoration: none;
+    list-style-type: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Raleway, sans-serif;
+    font-weight: 700;
+    font-size: 42px;
+    letter-spacing: 2,1px;
+
+
+}
+.button {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    size: 12px;
+    letter-spacing: 9%;
+}
+.button.white {
+    color: #FFFFFF;
+}
+.head-text {
+    font-weight: 600;
+    font-size: 11px;
+    letter-spacing: 0;
+}
+/* NAVIGATION */
+.site-nav {
+    color: white;
+    line-height: 1;
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 1.2px;
+}
+.site-nav .link:hover,
+.site-nav .link:focus {
+    color: #FF6C00;
+}
+.social-media {
+    text-decoration: none;
+    list-style-type: none;
+    font-weight: 600;
+    font-size: 11px;
+    letter-spacing: 2.2px;
+}
+.social-media .link:focus,
+.social-media .link:hover {
+    text-decoration: none;
+    color: #FF6C00;
+}
+
+/* HERO SECTION */
+.hero-title {
+    color: white;
+    background-color: black;
+
+    font-weight: 700;
+    font-size: 72px;
+    letter-spacing: 3,6px;
+}
+.hero-back {
+    color: #9DA4BD99;
+
+    letter-spacing: 0;
+    font-weight: 600px;
+    font-size: 11px;
+}
+.hero-text {
+    color: #9DA4BD;
+
+    line-height: 1.66;
+    letter-spacing: 0.4px;
+}
+/* ABOUT SECTION */
+.about .head-text 
+{
+    line-height: 1.66;
+}
+.about .text {
+    color: #555555;
+    line-height: 1.85;
+    font-size: 14px;
+}
+/* PRICE SECTION */
+.price .head-text {
+    color: #9DA4BD99;
+}
+.price-title {
+    color: #FFFFFF;
+    background-color: #303030;
+}
+.price-list {
+    color: #9DA4BD;
+    line-height: 1.66;
+}
+/* ADVANTAGES SECTION */
+span {
+    font-weight: 700;
+    font-size: 42px;
+    letter-spacing: 5%;
+}
+sup {
+    color: #FF6C00;
+    font-weight: 600;
+    font-size: 16px;
+    letter-spacing: 0;
+}
+.advantages-list {
+    font-weight: 600;
+    font-size: 11px;
+    letter-spacing: 0;
+}
+.advantages .text {
+    color: #555555;
+
+    letter-spacing: 0.4px;
+    line-height: 1.66;
+}
+/* BARBERS SECTION */
+.barbers .name {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: 0,4px;
+}
+.qualification {
+    color: #FF6C00;
+
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0,3px;
+}
+/* GALLERY SECTION */
+/* BOOKING-PAGE SECTION */
+.booking-page .title,
+.contacts .title {
+    color: white;
+    background-color: #303030;
+    letter-spacing: 2.1px;
+}
+.contacts-list {
+    color: #9DA4BD;
+    list-style-type: none;
+    text-decoration: none;
+}
+.contacts .address {
+    font-weight: 700;
+}
+.contacts .text {
+    color: #9DA4BD;
+
+    letter-spacing: 0,4px;
+}
+.floor {
+    color: #9DA4BD;
+
+    font-weight: 600;
+    font-size: 11px;
+    letter-spacing: 2.2px;
+    
+}
+
+
+
+
+
